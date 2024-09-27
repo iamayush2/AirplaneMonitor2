@@ -1,0 +1,9 @@
+27/9/2024, 11:13:35 pm (Arpit): hey, hi. how are you? i'm doing good. it's a testing project.
+27/9/2024, 11:13:39 pm (Arpit): yeah, it is.
+27/9/2024, 11:13:44 pm (Arpit): it is the project that i'm testing out.
+27/9/2024, 11:13:51 pm (Arpit): it should be tested out.
+27/9/2024, 11:13:56 pm (Arpit): it it should, right?
+27/9/2024, 11:14:05 pm (Arpit): ok ok, so i have to give padding.
+27/9/2024, 11:14:08 pm (Arpit): nice.
+27/9/2024, 11:14:12 pm (Arpit): come to the ball, the ball.
+27/9/2024, 11:14:24 pm (Arpit): it is not giving padding from bottom.
